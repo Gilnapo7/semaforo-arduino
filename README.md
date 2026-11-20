@@ -1,6 +1,8 @@
 # semaforo-arduino
 Este repositório contém o projeto de semáforo desenvolvido com  arduíno e simulado na plataforma Tinkercad.
+
 **Semáforo com Arduino**
+
 Circuito de semáforo projetado com Arduino e simulado na plataforma Tinkercad. 
 A primeira versão do semáforo para veículos.
 
