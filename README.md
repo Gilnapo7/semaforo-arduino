@@ -24,6 +24,9 @@ Link: https://www.tinkercad.com/things/5RyQVHXMVpn-componente-09-semana-03vf?sha
 **Alunos do 7º ano - Disciplina de Geografia**
 
 Em todas as escolas, há um problema maior fluxo de veículos nos horários de entrada e saída dos estudantes. São períodos em que as pessoas estão se descolocando para ir ao seu trabalho ou para levar e buscar seus filhos na escola.
+
 Pode-se iniciar uma problematização questionando os estudantes sobre qual é a percepção deles em relação ao trânsito próxima a escola nestes períodos de maior movimento. Caso alguns não percebam essa situação, orienta-los a observar os momentos de entrada e saída dos estudantes para verificar como ela ocorre e questioná-los: os motoristas respeitam os pedestres ao cruzarem a rua? Como poderíamos promover uma travessia da rua de forma mais segura?  Se a escola atender alunos com deficiência visual, como eles poderiam cruzar a rua em segurança?
+
 Propor aos grupos de alunos o desenvolvimento de um protótipo de semáforo inteligente e inclusivo, utilizando a plataforma Tinkercad como possibilidade de solução para o problema do trânsito próximo à escola. Os alunos deverão montar um circuito que tenha semáforo para pedestre e que emita sinal sonoro com ritmos diferentes para orientar pessoas com deficiência visual.
+
 Ao final os grupos irão testar os seus protótipos e apresentá-los  aos demais colegas de sala. Nesse momento, os discentes poderão questionar os colegas e sugerir aprimoramentos nos protótipos. Assim, os alunos compreenderão a importância da mobilidade urbana e das condições de acessibilidade nos espaços públicos, desenvolvendo de direito à cidadania, empatia, trabalho e grupo e inclusão social.
