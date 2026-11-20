@@ -7,14 +7,13 @@ A primeira versão do semáforo para veículos.
 Componentes utilizados
 Foram utilizado três LEDs nas cores vermelho, amarelo e verde, uma placa Arduino, três resistores de 220 ohms e uma placa protoboard.
 Cada Led apresentam um ciclo: o verde de quatro segundos, o amarelo dois segundo e  o vermelho de 5 segundo, em uma sequência constante. Abaixo a imagem do circuito elaborado na plataforma Tinkercad.
+<img width="886" height="340" alt="image" src="https://github.com/user-attachments/assets/1bdfb759-6118-475f-864e-3ff7c0a44287" />
  
 Link: https://www.tinkercad.com/things/lzcLKKu81Bh-componente-09-semana-03?sharecode=TYLtMxIl44kXr_607DwaoQyQnt7nf5sww0qm7SxLvFI 
 
 Na segunda versão foi acrescentado um semáforo para pedestre, que indica o momento de atravessar a rua, somente quando o LED vermelho estiver aceso para os veículos.
 Nesta nova versão, foram acrescentados  dois resistores de 220 ohms  e 2 LEDs nas cores vermelho e verde. Abaixo a imagem da segunda versão do circuito elaborado na plataforma Tinkercad.
-
-
- 
+<img width="689" height="416" alt="image" src="https://github.com/user-attachments/assets/84f6043f-5505-4a46-b4ca-ed9cf2299cfb" />
 Link: https://www.tinkercad.com/things/5RyQVHXMVpn-componente-09-semana-03vf?sharecode=Ioc2meqXKBF__j7zdoLrdIBpcO4qMZ4raP0cj7AgaKI 
 
 Uso na Escola
