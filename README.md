@@ -16,6 +16,7 @@ Link: https://www.tinkercad.com/things/lzcLKKu81Bh-componente-09-semana-03?share
 
 Na segunda versão foi acrescentado um semáforo para pedestre, que indica o momento de atravessar a rua, somente quando o LED vermelho estiver aceso para os veículos.
 Nesta nova versão, foram acrescentados  dois resistores de 220 ohms  e 2 LEDs nas cores vermelho e verde. Abaixo a imagem da segunda versão do circuito elaborado na plataforma Tinkercad.
+
 <img width="689" height="416" alt="image" src="https://github.com/user-attachments/assets/84f6043f-5505-4a46-b4ca-ed9cf2299cfb" />
 Link: https://www.tinkercad.com/things/5RyQVHXMVpn-componente-09-semana-03vf?sharecode=Ioc2meqXKBF__j7zdoLrdIBpcO4qMZ4raP0cj7AgaKI 
 
